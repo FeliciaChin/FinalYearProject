@@ -1,7 +1,8 @@
-# FinalYearProject
-Project Title: Text Classification for Major Depressive Disorder (MDD) Symptoms and Treatments Using Convolutional Neural Networks (CNN)
-Academic Session: 2023/2024
-Student: Felicia Chin Hui Fen (A20EC0037)
+# Final Year Project
+### Project Title: Text Classification for Major Depressive Disorder (MDD) Symptoms and Treatments Using Convolutional Neural Networks (CNN)
+
+### Academic Session: 2023/2024
+### Student: Felicia Chin Hui Fen (A20EC0037)
 Program: Bachelor Of Computer Science (Bioinformatics)
 Supervisor: Dr Sharin Hazlin Binti Hupsi
 Co-Supervisor: Dr Ahmad Najmi Bin Amerhaider Nuar
